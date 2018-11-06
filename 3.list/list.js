@@ -7,7 +7,7 @@ function List(){
 	this.toString = toString;
 	this.insert = insert;
 	this.append = append;
-	this.remove  remove;
+	this.remove = remove;
 	this.front = front;
 	this.end = end;
 	this.prev = prev;
